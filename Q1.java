@@ -15,3 +15,7 @@ public class Q1
     }
 }
 
+
+
+Output:-
+    Player name is Virat Kohli.His account number is 18087473849484.His total balance in this Bank account is 1.23287374123E8.His account type is Saving.His mobile number is 8976590876.His Bank name is State Bank of India.
